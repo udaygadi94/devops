@@ -1,2 +1,4 @@
 to see the unstaged and staged chngs
+making chngs in file1.txt
+making chngs in file1 again
 
